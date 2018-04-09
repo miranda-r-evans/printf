@@ -13,8 +13,8 @@ conversion specifiers and flags from printf:
 * X
 * o
 * p
-* #
-* +
+* [#]
+* [+]
 * [space]
 * l
 * h
