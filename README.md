@@ -1,4 +1,4 @@
-The first version of this project was co-written with Adekunle, but I rewote a new version from scratch at a later time. 
+The first version of this project was co-written with [Adekunle](https://github.com/flourishcodes), but I rewote a new version from scratch at a later time. 
 It is (mostly) compliant with [the betty style guide](https://github.com/holbertonschool/Betty/wiki).
 
 _printf is a clone of printf, with some added features.
